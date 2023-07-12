@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    border: solid 3px black;
+    text-align: center;
+    margin-right: 90px;
+    padding-bottom: 20px;
+    
+}
+
+.card-titulo{
+    text-align: center; 
+}
+
+button{
+    margin-left:9% ;
+    
+}
